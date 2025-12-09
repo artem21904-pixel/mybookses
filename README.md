@@ -63,15 +63,3 @@
 <p>Ви можете придбати ці книги на: </p>
        	<a href="https://www.amazon.com/"  target="_blank">Amazon</a>.</p>
        	<a href="https://www.booklub.ua/"  target="_blank">КСД</a>.</p>
-       	
-       	<h2>Зворотний зв’язок</h2> 
-<form action="submit_form.php" method="post"> 
-<h2><label for="name">Ім’я:</label> </h2>
-<input type="text" id="name" name="name" required> 
-<h2><label for="email">Електронна пошта:</label> </h2>
-<input type="email" id="email" name="email" required> 
-<h2><label for="age">Вік:</label> </h2>
-<input type="number" id="age" name="age" min="0" required> 
-<h2><label for="message">Повідомлення:</label> </h2>
-<textarea id="message" name="message" rows="4" required></textarea> 
-<button type="submit">Відправити</button>
