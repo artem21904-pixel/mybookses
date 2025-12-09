@@ -3,7 +3,7 @@
 <html lang = "uk">
     <head>
         <meta charset = "utf-8">
-        <title>Моя перша вебсторінка</title>
+        Моя перша вебсторінка
     </head>
     <body>
         <h1>Мої улюблені книги</h1>
